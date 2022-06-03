@@ -1,7 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using LicentaEnityFrameworkAPI.Datas;
 using LicentaEntityFrameworkConsole.Models;
-using System.Data.SqlClient;
 using Npgsql;
 using StackExchange.Profiling;
 using System.Data;
